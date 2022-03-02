@@ -47,7 +47,7 @@ resource "aws_security_group" "demo-cluster" {
   }
 
   tags = {
-    Name = "eks-landmark"
+    Name = "eks-mauriac"
   }
 }
 
